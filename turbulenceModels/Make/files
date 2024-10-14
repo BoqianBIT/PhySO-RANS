@@ -1,0 +1,5 @@
+incompressibleTurbulenceModel.C
+
+PhySOKE/PhySOKE.C
+
+LIB = $(FOAM_USER_LIBBIN)/libPhySORASModels

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "PhySOKE.C": "cpp",
+        "incompressibleTurbulenceModel.C": "cpp"
+    }
+}
